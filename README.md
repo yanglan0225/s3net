@@ -15,7 +15,7 @@ It has been accepted by ICME2020.
  - torch_geometric [PyG](https://github.com/rusty1s/pytorch_geometric)</br>
  
  ## Dataset
- - Sketch-RNN QuickDraw Dataset [Dwonload](https://console.cloud.google.com/storage/quickdraw_dataset/sketchrnn)
+ - Sketch-RNN QuickDraw Dataset [Download](https://console.cloud.google.com/storage/quickdraw_dataset/sketchrnn)
  
  
 ## Conclusion
