@@ -18,3 +18,7 @@ It has been accepted by ICME2020.
  - Sketch-RNN QuickDraw Dataset [Dwonload](https://console.cloud.google.com/storage/quickdraw_dataset/sketchrnn)
  
  
+## Conclusion
+Thank you and sorry for the bugs!
+If you would have further discussion on this code repository, please feel free to send email to LAN YANG.
+Email: ylan@bupt.edu.cn
